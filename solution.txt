@@ -1,2 +1,3 @@
 "Hotfix applied" 
 "Team's Hotfix applied" 
+"Conflict resolved" 
